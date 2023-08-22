@@ -1,0 +1,6 @@
+<Tipo de etiqueta> Contenido  </tipo de etiqueta>
+<Tipo de etiqueta propiedad de la etiqueta=atributo> Contenido  </tipo de etiqueta>
+<html lang="es"> </html>: Principal del archivo, con la propiedad de idioma en español "es"
+<Head></head>: Configuracion de toda la página
+<meta>: tipo de codificacion de la pagina
+<body></body>: contenido dentro de la pagina

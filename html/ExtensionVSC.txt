@@ -1,0 +1,9 @@
+Extenciones para VSC (CaC)
+
+ejs Snippets
+Elm Emmet
+Html Boilerplate
+Html CSS Support
+Html Snippets
+indent-rainbow
+Live Server
