@@ -1,0 +1,5 @@
+Etiquetas semanticas
+Creadeas desde la etiqueta div (divisor)
+Header, main,footer
+Las propiedades de las etiquetas van siempre en la apertura
+Para luego poder usar javaScrip y java hay que usar los atributos "id" y "name" en las etiquetas.
