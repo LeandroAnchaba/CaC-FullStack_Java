@@ -1,0 +1,2 @@
+fieldset: cuadro
+    legend: texto principal del cuadro
