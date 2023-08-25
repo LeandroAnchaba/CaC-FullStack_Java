@@ -1,2 +1,7 @@
 fieldset: cuadro
     legend: texto principal del cuadro
+    for en label para relacionarlo con el input
+    required: dato obligatorio para completar
+    form:
+    method="post" metodo de acceso al servidor
+    action= servidor al que se manda el formulario
