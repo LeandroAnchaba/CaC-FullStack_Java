@@ -1,0 +1,7 @@
+HTML 
+Clase01-Presentacion de HTML,
+que es una etiqueta  
+divición del cuerpo del html, 
+inicio del html,
+head: configuraciones generales de la pagina
+body: el cuerpor de la pagina

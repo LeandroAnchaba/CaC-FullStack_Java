@@ -1,5 +1,17 @@
-Etiquetas semanticas
+Etiquetas semanticas: no modifican la pagina, sirven para dividir los contenidos dentro del body
 Creadeas desde la etiqueta div (divisor)
-Header, main,footer
-Las propiedades de las etiquetas van siempre en la apertura
-Para luego poder usar javaScrip y java hay que usar los atributos "id" y "name" en las etiquetas.
+Dentro del body  se divide en: Header, main, footer
+etiqueta "nav" para hacer un menu
+etiqueta "article" para hacer un articulo
+Las propiedades de las etiquetas van siempre en la apertura ej: <div --propiedad--> contenido </div>
+Para luego poder usar javaScrip se usa el identificador "id"
+    y para java hay que usar el atributo "name" en las etiquetas.
+    conviene llamar al "id" y al "name" de la misma manera
+
+Etiqueta "table" para crear tablas
+    <tr></tr> para cada fila
+    <td></td> para agregar datos en la tabla
+    agregar "td" agrega más columnas
+    agregar propiedad "style" puedo modificar la apariencia de la tabala
+    <th></th> para el encabezado de cada columnas
+    <input> type="button" </input>para ingrasar un boton
